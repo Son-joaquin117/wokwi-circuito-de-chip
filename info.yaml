@@ -1,5 +1,5 @@
 # Tiny Tapeout project information (Wokwi project)
-project: "wokwi"
+project: 
   wokwi_id:     461966063488533505       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "LEDS RGB"      # Project title
   author:       "JOAQUIN GALINDO"      # Your name
